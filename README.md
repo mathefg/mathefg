@@ -29,9 +29,7 @@ Sobre mim:
 📚 Atualmente, estou ampliando minha formação com cursos extracurriculares relacionados ao desenvolvimento de software.
 🎓 Educação: Centro Universitário Fundação Santo André, conclusão em 2026.
 
-🚀 Cursos Extracurriculares: Lógica de programação, Tecnologia da Informação e Comunicação, Java, HTML, CSS, JavaScript, entre outros.
-
-🌟 Aprendendo constantemente: Python, SAP MM, Power BI e mais.
+🚀 Cursos Extracurriculares: Lógica de programação, Tecnologia da Informação e Comunicação, HTML, CSS, JavaScript, Bootstrap, React, PHP, Java, Python, MySQL, MongoDB, Spring Boot, Hibernate, JQuery, MVC, API, IONIC, Wordpress.
 
 Experiência:
 
